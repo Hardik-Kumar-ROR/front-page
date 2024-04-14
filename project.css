@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 40rem;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    border-radius: 20px;
+    margin-top: 3rem;
+    margin-left: 19rem;
+    
+}
+.heading h3{
+    margin-top: 4rem;
+    font-size: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, rgb(0, 0, 0) 20%  , rgb(0, 162, 255)70% );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.heading h5{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+.heading h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+.line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    background-color: black;
+    height: 2px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+}
+.after h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 10px;
+}
+.after button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 18.3rem ;
+    margin-top:1rem ;
+    box-shadow: 4px 4px 1.5px rgb(78, 78, 78);
+    border-radius: 10px;
+    transition: all;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(110, 110, 255);
+    color: white;
+    background-image: linear-gradient(to right , blue , violet);
+
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+.btn :hover{
+border-radius: 5px;
+border-style: solid;
+border-color: black;
+transition: ease-in-out;
+transition-duration: 0.1s;
+}
+.after h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    font-size: 0.9rem;
+}
+.after h5 a{
+    text-decoration: none;
+    color: rgb(66, 66, 255);
+}
+
+
+
+/* PAGE SECOND
+
